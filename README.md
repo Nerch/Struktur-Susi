@@ -1,7 +1,7 @@
 # Struktur-Susi
 Deine Ordner sehen aus wie nach 'ner Party? Susi regelt das! Einmal ausgedruckt, und selbst dein Chaos-System wird zum Vorzeige-Verzeichnis.
 
-##Installation & Integration von Struktur-Susi: Der Pfad zur Pfadfinder-Perfektion!
+## Installation & Integration von Struktur-Susi: Der Pfad zur Pfadfinder-Perfektion!
 
 Struktur-Susi ist dein persönlicher Ordnungscoach für digitale Verzeichnisse! Sie hilft dir, das Chaos zu entwirren und Struktur in den Ordner-Wahnsinn zu bringen. Bereit für ein aufgeräumtes Dateisystem? Dann los!
 
@@ -35,13 +35,13 @@ Druck-Funktion:
 
 Mit dem "Drucken"-Button holst du dir deinen Verzeichnisbaum auf Papier.
 
-###3. Wichtige Hinweise für den Einsatz von Susi:
+### 3. Wichtige Hinweise für den Einsatz von Susi:
 
 Susi mag es, in guter Gesellschaft zu sein. Stelle sicher, dass sie in einem Verzeichnis sitzt, das dein Webserver erreichen kann.
 Nach getaner Arbeit sollte Susi wieder verschwinden oder gesichert werden (z.B. mit einem Passwort), um unerwünschte Einblicke zu verhindern.
 
 
-##To-Do für zukünftige Versionen:
+## To-Do für zukünftige Versionen:
 
 Daten-Export: Integration von Funktionen, um die Verzeichnisstruktur als TXT- oder Markdown-Datei zu speichern.
 Zwischenablage: Hinzufügen eines Buttons, um den Verzeichnisbaum schnell in die Zwischenablage zu kopieren.
